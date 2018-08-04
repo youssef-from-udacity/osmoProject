@@ -146,6 +146,7 @@ $(document).ready(function() {
         });
     }
 
+
     var navbarHeight;
     var height;
 
