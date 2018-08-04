@@ -13,7 +13,7 @@ $(document).ready(function() {
         }
     }
     appropriateDevice();
-    modelForWorker();
+
 
     var myModal = $("#myModal");
 
