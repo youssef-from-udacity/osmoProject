@@ -150,7 +150,7 @@ $(document).ready(function() {
 
         // setting web worker
         var worker = null;
-        var workerUrl = "../../worker.js";
+        var workerUrl = "https://youssef-from-udacity.github.io/osmoProject/worker.js";
         // fallback for worker
         function createWorkerFallback(workerUrl) {
             try {

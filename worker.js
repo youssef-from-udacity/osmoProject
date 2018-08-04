@@ -1,6 +1,6 @@
 // fake dom to make jquery work on worker
-importScripts("dist/scripts/workerFakeDOM.js");
-importScripts('node_modules/jquery/dist/jquery.min.js');
+importScripts("https://youssef-from-udacity.github.io/osmoProject/dist/scripts/workerFakeDOM.js");
+importScripts('https://youssef-from-udacity.github.io/osmoProject/node_modules/jquery/dist/jquery.min.js');
 
 
 onmessage = function(e) {
